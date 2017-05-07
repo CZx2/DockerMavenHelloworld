@@ -1,7 +1,8 @@
-#**DOCKER WITH MAVEN HELLOWORLD APPLICATION**#
+**DOCKER WITH MAVEN HELLOWORLD APPLICATION**
 
 The current project has docker included as a maven profile
 
+Run a jar using docker plugin
 
 1. Clone the project
 2. 'mvn package -Pdocker' should build the docker image
