@@ -1,4 +1,4 @@
-**DOCKER WITH MAVEN HELLOWORLD APPLICATION**
+**DOCKER WITH MAVEN HELLOWORLD APPLICATION INTEGRATION WITH SLACK**
 
 The current project has docker included as a maven profile
 
